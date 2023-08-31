@@ -1,0 +1,15 @@
+{
+    "cardHightBySceneSize": 0.25,
+    "startSpeedCardSec": 3,
+    "speedCardDeltaSec": 0.05,
+    "fun": {
+        "minAngleBetweenCards":10,
+        "maxAngleBetweenCards":30,
+        "maxAngle": 150,
+        "fanCardsRadius": 0.8  
+      },
+    "distanceBetweenFuns" : 0.02,
+
+    "screenWidth": 600,
+    "screenHeight": 338
+}

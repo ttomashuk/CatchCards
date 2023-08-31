@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2015",
+      "declaration": true,
+      "outDir": "./dist",
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "esModuleInterop": true,
+      "types": ["pixi.js", "reflect-metadata"],
+      "experimentalDecorators": true,
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": ["node_modules", "**/*.spec.ts", "./dist"]
+  }
